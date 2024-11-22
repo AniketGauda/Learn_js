@@ -1,0 +1,75 @@
+{
+    "customerName": "xbvs",
+    "mainContactNumber": "623556585995878",
+    "nik": "6464455456565695",
+    "nokk": "9494464694494599",
+    "placeOfBirth": "gdgd",
+    "email": "abc@abc.com",
+    "idType": {
+        "data": "{\"_id\":\"203586\",\"parentTransitionValueId\":\"\",\"isParentLinked\":false,\"parentTransitionTypeId\":\"\",\"s_id\":203586,\"cust_type\":\"1\",\"transitionTypeId\":\"76\",\"description\":\"ID Card (KTP)\",\"ref_code\":\"ID Card (KTP)\",\"status\":174,\"org_id\":1,\"org_type\":154,\"node_id\":1,\"crtd_by\":10001,\"crtd_userid\":10001,\"updtd_by\":30001,\"last_updt_userid\":30001,\"crtd_dt\":{\"$date\":\"2021-07-20T17:12:05.761Z\"},\"updtd_dt\":{\"$date\":\"2022-12-29T05:15:32.842Z\"},\"last_updt_dt\":{\"$date\":\"2022-12-29T05:15:32.837Z\"},\"updtd_dt_num\":20221229121532}",
+        "label": "ID Card (KTP)",
+        "value": "203586",
+        "_index": 0
+    },
+    "dob": "11/22/1999",
+    "ktpPhoto": "202411/20241122/50625/500000/1732253811357.jpeg",
+    "selfiePhoto": "202411/20241122/50625/5030/1732253836599.jpeg",
+    "sameAsCustomerAddress": true,
+    "referenceName": "hdhf",
+    "referenceContactNumber": "623456777888",
+    "referenceRelationship": {
+        "label": "Sibling",
+        "value": "203610",
+        "_index": 0
+    },
+    "address": {
+        "Residential": {
+            "value": "Residential",
+            "id": "265",
+            "building_name": "hdhd",
+            "street_address": "eyey",
+            "postal_code": {
+                "label": "42117",
+                "value": "203630",
+                "_index": 0
+            },
+            "province": {
+                "label": "Banten",
+                "value": "203628",
+                "_index": 0
+            },
+            "city": {
+                "label": "Banten",
+                "value": "203629",
+                "_index": 0
+            }
+        },
+        "IdCard": {
+            "value": "Id Card",
+            "id": "267",
+            "building_name": "hdhd",
+            "street_address": "eyey",
+            "postal_code": {
+                "label": "42117",
+                "value": "203630",
+                "_index": 0
+            },
+            "province": {
+                "label": "Banten",
+                "value": "203628",
+                "_index": 0
+            },
+            "city": {
+                "label": "Banten",
+                "value": "203629",
+                "_index": 0
+            }
+        }
+    },
+    "isIndo": true,
+    "nationality": {
+        "label": "Indonesian",
+        "value": "1"
+    },
+    "biometricRes": []
+}
